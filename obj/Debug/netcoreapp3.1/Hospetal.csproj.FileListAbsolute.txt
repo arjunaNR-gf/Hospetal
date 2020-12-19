@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Hospetal\Hospetal\bin\Debug\netcoreapp3.1\Hospetal.exe
+C:\Users\HP\source\repos\Hospetal\Hospetal\bin\Debug\netcoreapp3.1\Hospetal.deps.json
+C:\Users\HP\source\repos\Hospetal\Hospetal\bin\Debug\netcoreapp3.1\Hospetal.runtimeconfig.json
+C:\Users\HP\source\repos\Hospetal\Hospetal\bin\Debug\netcoreapp3.1\Hospetal.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Hospetal\Hospetal\bin\Debug\netcoreapp3.1\Hospetal.dll
+C:\Users\HP\source\repos\Hospetal\Hospetal\bin\Debug\netcoreapp3.1\Hospetal.pdb
+C:\Users\HP\source\repos\Hospetal\Hospetal\obj\Debug\netcoreapp3.1\Hospetal.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Hospetal\Hospetal\obj\Debug\netcoreapp3.1\Hospetal.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Hospetal\Hospetal\obj\Debug\netcoreapp3.1\Hospetal.AssemblyInfo.cs
+C:\Users\HP\source\repos\Hospetal\Hospetal\obj\Debug\netcoreapp3.1\Hospetal.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Hospetal\Hospetal\obj\Debug\netcoreapp3.1\Hospetal.dll
+C:\Users\HP\source\repos\Hospetal\Hospetal\obj\Debug\netcoreapp3.1\Hospetal.pdb
+C:\Users\HP\source\repos\Hospetal\Hospetal\obj\Debug\netcoreapp3.1\Hospetal.genruntimeconfig.cache
